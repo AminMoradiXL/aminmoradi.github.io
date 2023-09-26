@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zheng-Meng Zhai"
+title                    : "Mohammadamin Moradi"
 title_separator          : "-"
-name                     : &name "Zheng-Meng Zhai"
+name                     : &name "Mohammadamin Moradi"
 description              : &description "Ph.D. student, Arizona State University"
-url                      : https://zheng-meng.github.io/zhengmengzhai.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://amoradi.us # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Zheng-Meng/zhengmengzhai.github.io"
+repository               : "AminMoradiXL/webpage"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
