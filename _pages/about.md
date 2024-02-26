@@ -25,8 +25,9 @@ Mohammadamin (Amin) Moradi is a Ph.D. Candidate in Prof. [Ying-Cheng Lai](http:/
 * Aug. 24, 2022. Paper entitled "[Adaptive optimal control of unknown discrete-time linear systems with guaranteed prescribed degree of stability using reinforcement learning](https://link.springer.com/article/10.1007/s40435-021-00836-x)" published in International Journal of Dynamics and Control.
 
 # Services
-* Journals Peer Reviewer: Over 60 papers reviwed for reputable journals such as IEEE Access, Physical Review X Energy, Physical Review Research, Physical Review X, International Journal of Power and Energy Systems, IET Renewable Power Generation, Journal of Energy Management and Technology
-* Comprehensive list of verified peer review record is available on my [Web of Science (Publons)](https://www.webofscience.com/wos/author/record/IZE-7530-2023) profile.
+* Scientific Journals Peer Reviewer: Over 60 papers reviwed for reputable journals such as IEEE Access, Physical Review X Energy, Physical Review Research, Physical Review X, International Journal of Power and Energy Systems, IET Renewable Power Generation, Journal of Energy Management and Technology
+* A comprehensive list of verified peer review record is available on my [Web of Science (Publons)](https://www.webofscience.com/wos/author/record/IZE-7530-2023) profile.
+
 # Contact Information
 
 Mohammadamin Moradi
