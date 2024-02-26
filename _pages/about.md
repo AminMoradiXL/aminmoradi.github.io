@@ -40,5 +40,4 @@ Tempe, Arizona 85281
 
 Email: aminmoradisc@gmail.com, mmoradi5@asu.edu
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=gO9Pel6RN5AXTQo52tykipysKwhC66BdaVzJj_z77WQ&cl=ffffff&w=a"></script>
-
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=gO9Pel6RN5AXTQo52tykipysKwhC66BdaVzJj_z77WQ&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
